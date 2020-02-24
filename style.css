@@ -1,0 +1,51 @@
+body {
+    background-color: #002f2f;
+}
+
+h1 {
+    font-family: 'Lobster';
+    font-size: 9rem;
+    color: #6fb98f;
+    text-shadow: 4px 4px #1b1b1b;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    font-family: 'Indie Flower';
+    font-size: 2rem;
+    color: #6fb98f;
+}
+
+.btn {
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    color: #003738;
+}
+
+.container {
+    text-align: center;
+}
+
+.row-one {
+    display: inline-block;
+    margin-right: 3rem;
+}
+
+.row-two {
+    display: inline-block;
+    margin-left: 3rem;
+}
+
+.row-four {
+    padding-top: 100px;
+}
+
+.website {
+    font-size: 1.2rem;
+}
